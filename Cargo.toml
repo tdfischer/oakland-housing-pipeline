@@ -1,0 +1,6 @@
+[package]
+name = "oakland-pipeline"
+version = "0.1.0"
+authors = ["Torrie Fischer <tdfischer@hackerbots.net>"]
+
+[dependencies]
